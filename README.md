@@ -6,7 +6,9 @@ Quick guide to setup a RTL SDR Server on a Raspberry Pi.
 ## Base
 
 - Raspbian-litie (https://downloads.raspberrypi.org/raspbian_lite_latest)
-- Rpi (2 or 3)
+- Raspberry Pi (2 or 3)
+
+⚠️⚠️ The Pi Zero W seems not enough powerfull to handle rtl_tcp.
 
 ## Flash the Sdcard
 
